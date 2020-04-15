@@ -1,0 +1,9 @@
+{
+  "type" : "record",
+  "namespace" : "ybkeralatrainee",
+  "name" : "itemsdescription",
+  "fields" : [
+    { "name" : "itemno" , "type" : "int" },
+    { "name" : "itemname" , "type" : "string" }
+  ]
+}
